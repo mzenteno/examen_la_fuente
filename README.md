@@ -27,7 +27,7 @@ El cliente recibe la respuesto del servicio.
 }
 
 Respuesta al cliente:
-![Descripción de la imagen](images/pregunta1.png)
+![Descripción de la imagen](src/main/images/pregunta1.png)
 
 
 # Pregunta 2
